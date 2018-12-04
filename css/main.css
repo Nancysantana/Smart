@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat';
 }
 
  i {
@@ -32,17 +31,13 @@
   margin-top: 15vh;
 }*/
  /*
-div > h2 {
-  font-family: 'Rochester';
-  font-size: 3em;
-} */
+ */
 
 /* fondo*/
- {
-/*  background-color: #fff;*/
-  /* background-repeat: round;
-  background-size: cover; */
-  /* min-height: 100vh; */
+
+div > h2 {
+   font-family: 'Reem kufi';
+  font-size: 3em;
 }
 /*fondo menú  */
 .bg {
@@ -54,8 +49,9 @@ div > h2 {
 .bg-footer {
   background-color: #5D666F;
   color: #fff;
-  font-size: .8em;
- /* min-height: 2vh;*/
+  /*font-size: .8em;*/
+  min-height: 10vh;
+  min-width: 100vw;
 }
 
 /* imagen fondo formulario */
@@ -66,68 +62,37 @@ div > h2 {
   min-height: 100vh;
 }
 
-
-/*.card {
-  height: 50vh;
-}
-
-.brd-c {
-  border: #4a447d;
-}
-
-.nav-item {
-  margin-right: 150px;
-}
-
-.pa-0 {
-  padding-right: 0;
-  padding-left: 0;
-}*/
-
-
-
-/*
-
-.bg-menú-mov {
-  background-color: #EDCDCD;
-}
-
-.bg-v {
-  background-color: #5D8E92;
-  height: 5vh;
-  min-height: 10vh;
-  min-width: 100vw;
-}
-
 .btnn {
-  background-color: white;
-  border:none;
-  color: #000000;
+  background-color: #011534 ;
+  border-color: none;
+  color: #ffffff;
   margin: 4px 6px;
 }
 
 .btnn:hover {
-  background-color: #BA8959;
+  background-color: #D7AF2E;
   color: #ffffff  ;
+}
+
+
+.mt5 {
+  margin-top: 5rem;
 }
 
 .m-t {
   margin-top: 35px;
-}
-
-.mt5 {
-  margin-top: 3rem;
-}
-
-.p-r {
-  padding-right: 0px;
+  margin-bottom: 35px;
 }
 
 .txt {
   color: rgb(0,0,0);
-  font-family:  'Rochester';
+  font-family:  'Montserrat';
   font-size: 1.3rem;
-  text-shadow: 1px 2px 6px #E2256F;
+  text-shadow: 1px 2px 6px #CBDFA5;
+
+/*
+
+
 }
 
 .txtp {
