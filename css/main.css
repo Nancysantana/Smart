@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat';
+}
+
+ i {
+  color:#fff;
+}
+
+ i:hover {
+  color: #99d4f7;
+}
+
+/*#home:hover,
+#Whatwedo:hover {
+  background-color:pink;
+  color: white;
+}
+
+#Whatwedo {
+  background-color: transparent;
+  color: black;
+  border: none;
+  margin: 4px 0px;
+  font-size: 1.5em;
+}*/
+
+/* margen redes sociales inicio */
+/*.ml-i {
+  margin-left: 10vw;
+  margin-top: 15vh;
+}*/
+ /*
+div > h2 {
+  font-family: 'Rochester';
+  font-size: 3em;
+} */
+
+/* fondo*/
+ {
+/*  background-color: #fff;*/
+  /* background-repeat: round;
+  background-size: cover; */
+  /* min-height: 100vh; */
+}
+/*fondo menú  */
+.bg {
+  background-color: #011534;
+  color: #fff;
+}
+
+/* bg footer final */
+.bg-footer {
+  background-color: #5D666F;
+  color: #fff;
+  font-size: .8em;
+ /* min-height: 2vh;*/
+}
+
+/* imagen fondo formulario */
+.bg-formulario {
+  background-image: url("../assets/images/formulario.png");
+  background-repeat: round;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+
+/*.card {
+  height: 50vh;
+}
+
+.brd-c {
+  border: #4a447d;
+}
+
+.nav-item {
+  margin-right: 150px;
+}
+
+.pa-0 {
+  padding-right: 0;
+  padding-left: 0;
+}*/
+
+
+
+/*
+
+.bg-menú-mov {
+  background-color: #EDCDCD;
+}
+
+.bg-v {
+  background-color: #5D8E92;
+  height: 5vh;
+  min-height: 10vh;
+  min-width: 100vw;
+}
+
+.btnn {
+  background-color: white;
+  border:none;
+  color: #000000;
+  margin: 4px 6px;
+}
+
+.btnn:hover {
+  background-color: #BA8959;
+  color: #ffffff  ;
+}
+
+.m-t {
+  margin-top: 35px;
+}
+
+.mt5 {
+  margin-top: 3rem;
+}
+
+.p-r {
+  padding-right: 0px;
+}
+
+.txt {
+  color: rgb(0,0,0);
+  font-family:  'Rochester';
+  font-size: 1.3rem;
+  text-shadow: 1px 2px 6px #E2256F;
+}
+
+.txtp {
+  color: #292829;
+  font-family:  'Reem Kufi' ;
+  font-size: 1.2em;
+}
+
+.txt2 {
+  color: #292829;
+  font-style: 'Reem Kufi';
+  font-size: 1.5em;
+} */
+/*
+@media only screen and (max-width: 992px) {
+  .mt5 {
+    margin-top: 25vh;
+  }
+  .co-m {
+    margin-bottom: 3rem;
+  }
+} */
